@@ -1,0 +1,16 @@
+{
+  "Quizes": [
+    {
+      "examineeName": "VEDIC GHEE Store",
+      "result": {
+        "correct": 1,
+        "total": 6
+      },
+      "selectedQuiz": {
+        "id": 141,
+        "title": "Video Games"
+      },
+      "id": 1
+    }
+  ]
+}

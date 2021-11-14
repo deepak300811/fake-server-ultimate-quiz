@@ -1,0 +1,14 @@
+{
+  "name": "ultimate-quiz-server",
+  "version": "1.0.0",
+  "description": "A fake server for storing results for the ultimate quiz",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
