@@ -1,16 +1,26 @@
 {
   "Quizes": [
     {
-      "examineeName": "VEDIC GHEE Store",
+      "examineeName": "Deepak Kumar",
       "result": {
-        "correct": 1,
+        "correct": 6,
         "total": 6
       },
       "selectedQuiz": {
         "id": 141,
         "title": "Video Games"
+      }
+    },
+    {
+      "examineeName": "Tony Stark",
+      "result": {
+        "correct": 5,
+        "total": 6
       },
-      "id": 1
+      "selectedQuiz": {
+        "id": 169,
+        "title": "Numbers"
+      }
     }
   ]
 }
